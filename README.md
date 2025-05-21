@@ -13,4 +13,4 @@ This assignment focuses on implementing various techniques for image classificat
 * Using transfer learning with a pre-trained VGG-16 model.
 * Conducting hyperparameter tuning and visualizing training results.
 
-The assignment involves working with datasets such as Intel Image Classification, Fashion MNIST, and CIFAR-10 to evaluate different classification approaches.
+**[Dataset](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)**
