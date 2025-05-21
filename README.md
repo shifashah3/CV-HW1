@@ -1,6 +1,6 @@
 ## EE452 Computer Vision – Assignment 1
 
-### Training Neural Networks for Image Classification**
+### Training Neural Networks for Image Classification
 
 #### Overview
 
